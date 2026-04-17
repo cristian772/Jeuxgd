@@ -1,83 +1,112 @@
-# 👨‍💻 Hello, I'm a Technicien IT & Automation Focused Profile
+# 🧭 FICHES ENTRETIEN – TECHNICIEN INFORMATIQUE / AUTOMATISATION
 
 ---
 
-## 🚀 About Me
+# 🎯 1. PRÉSENTATION (30–45 sec)
 
-Technicien informatique en environnement industriel, spécialisé dans le support, le matriçage et l’amélioration des processus via l’automatisation.
+Je suis technicien informatique en mission intérim depuis novembre, sur un environnement industriel orienté support et matriçage.
 
-J’ai une approche orientée **résolution de problèmes, optimisation et fiabilisation des systèmes**.
+Je suis arrivé sans expérience sur ce périmètre, mais j’ai rapidement monté en compétence jusqu’à devenir référent technique sur l’activité, notamment sur la gestion des incidents et l’analyse des causes d’erreurs.
 
----
+En parallèle, j’ai travaillé sur des améliorations et automatisations de processus ayant permis de fiabiliser la production et d’augmenter la capacité d’environ 40%.
 
-## 💼 Current Experience
-
-### 🧩 IT Technician – Industrial Environment (Interim)
-
-📅 Since November
-
-* Support technique et gestion d’incidents sur environnement industriel
-* Référent opérationnel sur le périmètre matriçage
-* Analyse des erreurs et amélioration continue des process
+Aujourd’hui, je cherche à évoluer vers un CDI pour continuer sur des missions d’optimisation et d’amélioration des process.
 
 ---
 
-## ⚙️ Key Achievement
+# 🚀 2. ÉVOLUTION RAPIDE
 
-### 🚀 Process Automation & Production Optimization
+Je suis arrivé sans expérience sur le périmètre matriçage, mais j’ai rapidement cherché à comprendre le fonctionnement global plutôt que de rester sur l’exécution des tâches.
 
-* Développement d’automatisations sur les fiches de production et processus de matriçage
-* Suppression de tâches manuelles et réduction des erreurs humaines
-* Amélioration de la capacité de production :
-
-📈 **72 → 100 unités / jour (+40%)**
+Cette approche m’a permis de monter en autonomie rapidement et d’être identifié comme référent sur l’activité.
 
 ---
 
-## 🧠 Skills & Mindset
+# 🧠 3. RÔLE RÉFÉRENT
 
-* 🔧 IT Support & Incident Management
-* ⚙️ Process Automation & Optimization
-* 📊 Problem Analysis & Root Cause Investigation
-* 🚀 Continuous Improvement mindset
-* 👥 User support & communication
-* 🧩 Fast learning & adaptability
+Je suis référent technique sur le périmètre matriçage.
+
+J’interviens sur l’analyse des incidents, la recherche des causes d’erreurs et la mise en place de solutions pour assurer la continuité de production.
 
 ---
 
-## 🧑‍💻 Previous Experience
+# ⚙️ 4. AUTOMATISATION / IMPACT
 
-* Deployment & IT support roles
-* Direct user interaction (IT shop / field support)
-* Hardware / workstation installation
+J’ai mis en place plusieurs automatisations sur les processus de production, notamment sur la génération et l’impression des fiches de matriçage.
 
----
-
-## 🎯 Strengths
-
-* Rapid learning & autonomy
-* Strong problem-solving mindset
-* Focus on efficiency & process improvement
-* Ability to bridge technical + operational needs
+Ces améliorations ont permis de réduire les tâches manuelles, de fiabiliser les données et d’améliorer la capacité de production d’environ 40%, en passant de 72 à 100 unités par jour.
 
 ---
 
-## 💰 Career Objective
+# 🔧 5. ÉTAT D’ESPRIT
 
-I am currently seeking a **full-time CDI opportunity** in IT support / automation-oriented roles where I can continue improving systems, processes and operational efficiency.
+Je fonctionne en amélioration continue.
 
----
-
-## 📊 Impact Summary
-
-✔ Reduced manual operations
-✔ Improved production reliability
-✔ Increased operational capacity
-✔ Acted as operational reference point
+Dès que je vois un processus répétitif ou source d’erreurs, je cherche à comprendre et à optimiser afin de gagner en efficacité et en fiabilité.
 
 ---
 
-## 📫 Contact
+# 👥 6. EXPÉRIENCE CONTACT UTILISATEUR
+
+Avant ce poste, j’ai travaillé sur des activités de déploiement et de support utilisateur en contact direct avec les utilisateurs, notamment en boutique IT.
+
+Cela m’a permis de développer une bonne aisance relationnelle et une approche orientée service.
+
+---
+
+# 💡 7. POURQUOI MOI ?
+
+Je ne me limite pas à exécuter les tâches.
+
+J’analyse les problèmes, je comprends les causes et je propose des solutions concrètes qui améliorent les processus et la production.
+
+J’ai déjà démontré une montée en compétence rapide et un impact mesurable sur l’activité.
+
+---
+
+# 💰 8. SALAIRE
+
+Au vu de mon rôle, de mes responsabilités et des améliorations apportées sur les processus, je me positionne sur une rémunération entre 34 000 et 36 000 € brut annuel.
+
+Je reste ouvert à la discussion selon le périmètre et les avantages proposés.
+
+---
+
+# ⚠️ 9. PIÈGE – “VOUS ÊTES DÉBUTANT”
+
+Je suis arrivé sans expérience sur ce périmètre, mais j’ai rapidement gagné en autonomie jusqu’à devenir référent opérationnel.
+
+Aujourd’hui, je suis capable de gérer les incidents et de comprendre les causes des problèmes de manière autonome.
+
+---
+
+# 🎯 10. TRAJET / CONTRAINTE
+
+Le poste m’intéresse réellement sur le plan technique et des responsabilités.
+
+Le temps de trajet est important, mais il reste secondaire par rapport à la cohérence du poste et à la valeur du projet.
+
+---
+
+# 🔥 LIGNE DIRECTRICE À RETENIR
+
+Toujours ramener à :
+
+* montée en compétence rapide
+* référent technique
+* automatisation / optimisation
+* impact mesurable (+40%)
+* autonomie
+
+---
+
+# 🧩 POSITIONNEMENT FINAL
+
+Technicien informatique + référent opérationnel + profil automatisation / amélioration process
+
+❌ pas un support classique
+✔️ profil à impact
+
 
 (À compléter)
 
